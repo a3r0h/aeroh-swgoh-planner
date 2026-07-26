@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-19T01:27:01.991Z"
+  },
+  "id": "tier-squad-mrr4007y-bp7hk",
+  "kind": "squad",
+  "name": "Gungans + Tarpals Omi",
+  "leaderId": "BOSSNASS",
+  "companionIds": [
+    "CAPTAINTARPALS",
+    "JARJARBINKS",
+    "BOOMADIER",
+    "GUNGANPHALANX"
+  ],
+  "unitIds": [
+    "BOSSNASS",
+    "CAPTAINTARPALS",
+    "JARJARBINKS",
+    "BOOMADIER",
+    "GUNGANPHALANX"
+  ],
+  "alignment": "light",
+  "omicronRequired": true,
+  "description": "Gungans are a fantastic TB squad that allows you to take advantage of their Shield Generator, which the AI seems to have a hard time dealing with.\nThe team is weak to swarm attacks, and if the Generator dies, the team falls apart fast.",
+  "notes": [
+    "Can hide behind the Shield Generator",
+    "Weak to swarm attacks",
+    "Strong Omi",
+    ""
+  ],
+  "marks": {
+    "leader": {
+      "value": 5,
+      "checked": true
+    },
+    "units": [
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      }
+    ],
+    "omicron": {
+      "value": 5,
+      "checked": true
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Squad in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The squads ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the squad cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 1,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the squad composition, and do they rely on an Omicron to function"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 4,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the squad expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 4,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Nearly any LS or Mix mission",
+      "note": "Full Auto"
+    },
+    {
+      "phase": 2,
+      "text": "Nearly any LS or Mix mission",
+      "note": "Full Auto"
+    },
+    {
+      "phase": 3,
+      "text": "Nearly any LS or Mix mission",
+      "note": "Full Auto"
+    },
+    {
+      "phase": 4,
+      "text": "Nearly any LS, but does very well on Vandor",
+      "note": "Full Auto"
+    },
+    {
+      "phase": 5,
+      "text": "Nearly any LS or Mix mission",
+      "note": "Full Auto"
+    },
+    {
+      "phase": 6,
+      "text": "Nearly any LS, but does very well on Hoth",
+      "note": "Full Auto"
+    }
+  ],
+  "completion": {
+    "percent": 100,
+    "unitIds": [
+      "BOSSNASS",
+      "CAPTAINTARPALS",
+      "JARJARBINKS",
+      "BOOMADIER",
+      "GUNGANPHALANX"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

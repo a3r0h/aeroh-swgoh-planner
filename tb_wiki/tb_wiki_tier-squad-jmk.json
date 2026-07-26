@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-19T03:29:56.536Z"
+  },
+  "id": "tier-squad-mrr8epmz-r2600",
+  "kind": "squad",
+  "name": "JMK",
+  "leaderId": "JEDIMASTERKENOBI",
+  "companionIds": [
+    "COMMANDERAHSOKA",
+    "AHSOKATANO",
+    "PADMEAMIDALA",
+    "GENERALKENOBI"
+  ],
+  "unitIds": [
+    "JEDIMASTERKENOBI",
+    "COMMANDERAHSOKA",
+    "AHSOKATANO",
+    "PADMEAMIDALA",
+    "GENERALKENOBI"
+  ],
+  "alignment": "light",
+  "omicronRequired": false,
+  "description": "JMK and CAT can do some real Dmg, and work on manual across all phases, if you stick primarily to LS missions.\nThe comp is pretty locked. You have to take out the opposing tank with CAT, and then use the momentum to stay alive. Save CAT's second 1-shot for wave 2 and put Dmg immunity on GK. Try to reset all CDs before wave 2 as well.",
+  "notes": [
+    "Very little flexibility, but no Omi",
+    "Must do manual battles",
+    "Must line up and execute abilities in a certain way",
+    ""
+  ],
+  "marks": {
+    "leader": {
+      "value": 5,
+      "checked": true
+    },
+    "units": [
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": false
+      },
+      {
+        "value": 5,
+        "checked": false
+      },
+      {
+        "value": 5,
+        "checked": false
+      }
+    ],
+    "omicron": {
+      "value": 0,
+      "checked": false
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Squad in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 3,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The squads ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the squad cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 2,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the squad composition, and do they rely on an Omicron to function"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the squad expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 4,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Most LS missions",
+      "note": "Manual"
+    },
+    {
+      "phase": 2,
+      "text": "Most LS missions",
+      "note": "Manual"
+    },
+    {
+      "phase": 3,
+      "text": "Most LS missions",
+      "note": "Manual"
+    },
+    {
+      "phase": 4,
+      "text": "Most LS missions",
+      "note": "Manual"
+    },
+    {
+      "phase": 5,
+      "text": "Most LS missions",
+      "note": "Manual"
+    },
+    {
+      "phase": 6,
+      "text": "Most LS missions",
+      "note": "Manual"
+    }
+  ],
+  "completion": {
+    "percent": 100,
+    "unitIds": [
+      "JEDIMASTERKENOBI",
+      "COMMANDERAHSOKA",
+      "AHSOKATANO",
+      "PADMEAMIDALA",
+      "GENERALKENOBI"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

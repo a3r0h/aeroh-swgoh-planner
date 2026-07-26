@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-19T02:07:37.079Z"
+  },
+  "id": "tier-squad-mrr5enuc-9ezyz",
+  "kind": "squad",
+  "name": "Finn + Finn Omi",
+  "leaderId": "FINN",
+  "companionIds": [
+    "EPIXFINN",
+    "EPIXPOE",
+    "REYJEDITRAINING",
+    "ZORIIBLISS_V2"
+  ],
+  "unitIds": [
+    "FINN",
+    "EPIXFINN",
+    "EPIXPOE",
+    "REYJEDITRAINING",
+    "ZORIIBLISS_V2"
+  ],
+  "alignment": "light",
+  "omicronRequired": true,
+  "description": "While Finn and the Resistance are an absolute monster in TB with his Omi, they have lost a lot of pull in other game modes, making it hard to justify a deep investment.\nThe Omi is a must for the team to function, and they need strong mods.",
+  "notes": [
+    "Must have the Omi to function",
+    "Massive Dmg",
+    "",
+    ""
+  ],
+  "marks": {
+    "leader": {
+      "value": 5,
+      "checked": true
+    },
+    "units": [
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 4,
+        "checked": false
+      },
+      {
+        "value": 5,
+        "checked": false
+      }
+    ],
+    "omicron": {
+      "value": 5,
+      "checked": true
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Squad in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 4,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The squads ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the squad cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 4,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the squad composition, and do they rely on an Omicron to function"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 2,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the squad expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 4,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Any LS or Mix mission",
+      "note": "Full auto"
+    },
+    {
+      "phase": 2,
+      "text": "Any LS or Mix mission",
+      "note": "Full auto"
+    },
+    {
+      "phase": 3,
+      "text": "Any LS or Mix mission",
+      "note": "Full auto"
+    },
+    {
+      "phase": 4,
+      "text": "Any LS or Mix mission, great on Mandalore",
+      "note": "Full auto"
+    },
+    {
+      "phase": 5,
+      "text": "Any LS mission",
+      "note": "Full auto"
+    },
+    {
+      "phase": 6,
+      "text": "Any LS mission",
+      "note": "Full auto"
+    }
+  ],
+  "completion": {
+    "percent": 83,
+    "unitIds": [
+      "FINN",
+      "EPIXFINN",
+      "EPIXPOE",
+      "REYJEDITRAINING",
+      "ZORIIBLISS_V2"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 90,
+      "unitIds": [
+        "FINN",
+        "EPIXFINN",
+        "EPIXPOE",
+        "ROSETICO",
+        "ZORIIBLISS_V2"
+      ]
+    },
+    {
+      "percent": 80,
+      "unitIds": [
+        "FINN",
+        "EPIXFINN",
+        "EPIXPOE",
+        "ZORIIBLISS_V2",
+        ""
+      ]
+    },
+    {
+      "percent": 70,
+      "unitIds": [
+        "FINN",
+        "EPIXFINN",
+        "EPIXPOE",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-19T02:34:12.927Z"
+  },
+  "id": "tier-squad-mrr6cqf2-pmlop",
+  "kind": "squad",
+  "name": "Satele",
+  "leaderId": "SATELESHAN",
+  "companionIds": [
+    "JEDIKNIGHTREVAN",
+    "BASTILASHAN",
+    "JOLEEBINDO",
+    "JUHANI"
+  ],
+  "unitIds": [
+    "SATELESHAN",
+    "JEDIKNIGHTREVAN",
+    "BASTILASHAN",
+    "JOLEEBINDO",
+    "JUHANI"
+  ],
+  "alignment": "light",
+  "omicronRequired": false,
+  "description": "Satele is an absolute monster, but needs at least r8, preferably r9 or above, to beef up the team enough to work. At r7 or below, the team is not stable.\nSatele, JKR, Bastila and Jolee are staples of the team, while the 5th slot is flexible.\nIt is possible that putting the team under Carth lead using his Omi works, but it has not been tested.",
+  "notes": [
+    "Strong on defense at or past r9",
+    "Does not work at r7 or below",
+    "Does not rely on an Omi",
+    ""
+  ],
+  "marks": {
+    "leader": {
+      "value": 5,
+      "checked": true
+    },
+    "units": [
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 3,
+        "checked": false
+      }
+    ],
+    "omicron": {
+      "value": 0,
+      "checked": false
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 4,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Squad in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The squads ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the squad cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 4,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the squad composition, and do they rely on an Omicron to function"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 3,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the squad expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 4,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Any LS or Mix mission",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 2,
+      "text": "Any LS or Mix mission",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 3,
+      "text": "Any LS or Mix mission",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 4,
+      "text": "Any LS or Mix mission",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 5,
+      "text": "Any LS or Mix mission",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 6,
+      "text": "Any LS or Mix mission",
+      "note": "Full auto, or slight babysitting"
+    }
+  ],
+  "completion": {
+    "percent": 80,
+    "unitIds": [
+      "SATELESHAN",
+      "JEDIKNIGHTREVAN",
+      "BASTILASHAN",
+      "JOLEEBINDO",
+      "JUHANI"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 95,
+      "unitIds": [
+        "SATELESHAN",
+        "JEDIKNIGHTREVAN",
+        "BASTILASHAN",
+        "JOLEEBINDO",
+        "50RT"
+      ]
+    },
+    {
+      "percent": 90,
+      "unitIds": [
+        "SATELESHAN",
+        "JEDIKNIGHTREVAN",
+        "BASTILASHAN",
+        "JOLEEBINDO",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "CARTHONASI",
+        "SATELESHAN",
+        "JEDIKNIGHTREVAN",
+        "BASTILASHAN",
+        "JOLEEBINDO"
+      ]
+    }
+  ]
+}

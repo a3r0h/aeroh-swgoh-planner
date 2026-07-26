@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-19T08:10:14.667Z"
+  },
+  "id": "tier-squad-mrrbolvr-0p94k",
+  "kind": "squad",
+  "name": "[Testing] Cobb + Cobb Omi",
+  "leaderId": "COBBVANTH",
+  "companionIds": [
+    "CORUSCANTUNDERWORLDPOLICE",
+    "LOBOT",
+    "JAWASCAVENGER",
+    "CHIEFNEBIT"
+  ],
+  "unitIds": [
+    "COBBVANTH",
+    "CORUSCANTUNDERWORLDPOLICE",
+    "LOBOT",
+    "JAWASCAVENGER",
+    "CHIEFNEBIT"
+  ],
+  "alignment": "light",
+  "omicronRequired": true,
+  "description": "The Cobb team has been performing quite well in testing, but Nebit seems to often die on wave 1. And while the team still pulls through, it begs the question of whether the team would be better off with another Support, and then beefing up Cobb instead, as the pseudo tank.\nThat being the case, 2x Support Tuskens could also work.\nTeam is still in testing, but the current output using Jawas is pretty good.",
+  "notes": [
+    "Still in testing",
+    "",
+    "",
+    ""
+  ],
+  "marks": {
+    "leader": {
+      "value": 5,
+      "checked": true
+    },
+    "units": [
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 4,
+        "checked": false
+      }
+    ],
+    "omicron": {
+      "value": 5,
+      "checked": true
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Squad in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 4,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The squads ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 4,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the squad cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 2,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the squad composition, and do they rely on an Omicron to function"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 3,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the squad expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 4,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Any LS or Mix mission",
+      "note": "Full auto"
+    },
+    {
+      "phase": 2,
+      "text": "Any LS or Mix mission",
+      "note": "Full auto"
+    },
+    {
+      "phase": 3,
+      "text": "Any LS or Mix mission",
+      "note": "Full auto"
+    },
+    {
+      "phase": 4,
+      "text": "Still in testing",
+      "note": "-"
+    },
+    {
+      "phase": 5,
+      "text": "Still in testing",
+      "note": "-"
+    },
+    {
+      "phase": 6,
+      "text": "Still in testing",
+      "note": "-"
+    }
+  ],
+  "completion": {
+    "percent": 87,
+    "unitIds": [
+      "COBBVANTH",
+      "CORUSCANTUNDERWORLDPOLICE",
+      "LOBOT",
+      "JAWASCAVENGER",
+      "CHIEFNEBIT"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 0,
+      "unitIds": [
+        "COBBVANTH",
+        "CORUSCANTUNDERWORLDPOLICE",
+        "LOBOT",
+        "JAWASCAVENGER",
+        "DATHCHA"
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "COBBVANTH",
+        "CORUSCANTUNDERWORLDPOLICE",
+        "LOBOT",
+        "TUSKENCHIEFTAIN",
+        "URORRURRR"
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "COBBVANTH",
+        "CORUSCANTUNDERWORLDPOLICE",
+        "LOBOT",
+        "TUSKENCHIEFTAIN",
+        "TUSKENHUNTRESS"
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

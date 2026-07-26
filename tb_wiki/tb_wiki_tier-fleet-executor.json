@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-26T10:28:24.064Z"
+  },
+  "id": "tier-fleet-executor",
+  "kind": "fleet",
+  "name": "Executor",
+  "leaderId": "CAPITALEXECUTOR",
+  "companionIds": [
+    "HOUNDSTOOTH",
+    "RAZORCREST",
+    "XANADUBLOOD",
+    "PUNISHINGONE",
+    "SLAVE1",
+    "IG2000",
+    "TIEBOMBERIMPERIAL"
+  ],
+  "unitIds": [
+    "CAPITALEXECUTOR",
+    "HOUNDSTOOTH",
+    "RAZORCREST",
+    "XANADUBLOOD",
+    "PUNISHINGONE",
+    "SLAVE1",
+    "IG2000",
+    "TIEBOMBERIMPERIAL"
+  ],
+  "alignment": "dark",
+  "omicronRequired": false,
+  "description": "Executor is a solid choice for all the Mix fleet missions, except for Mandalore.\nRazor Crest is used in a ton of Ops, but can be replaced by either Slave or Punishing for the starting line-up.\nIf a special unit is in the starting line-up, HT and RC are typically the best, but if RC is occupied, XB/Slave/Punishing takes its place.",
+  "notes": [
+    "Razor Crest is needed for a ton of Ops",
+    "Can feel a bit RNG without Razor Crest",
+    "Punishing and Slave are the best early reinforcements",
+    "Bomber is fantastic if your HT dies, or Taunt is dispelled"
+  ],
+  "marks": {
+    "leader": {
+      "value": 0,
+      "checked": false
+    },
+    "starters": [
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": false
+      },
+      {
+        "value": 5,
+        "checked": true
+      }
+    ],
+    "units": [
+      {
+        "value": 5,
+        "checked": false
+      },
+      {
+        "value": 5,
+        "checked": false
+      },
+      {
+        "value": 3,
+        "checked": false
+      },
+      {
+        "value": 4,
+        "checked": false
+      }
+    ],
+    "omicron": {
+      "value": 0,
+      "checked": false
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Squad in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The squads ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the squad cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 4,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the squad composition, and do they rely on an Omicron to function"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the squad expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 5,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Corellia Mix Fleet - Lando's MF required",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 2,
+      "text": "Felucia Mix Fleet",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 3,
+      "text": "Tatooine Mix Fleet - Executor required",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 4,
+      "text": "Kessel Mix Fleet - Ghost required",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 5,
+      "text": "Vandor Mix Fleet",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 6,
+      "text": "Hoth Mix Fleet",
+      "note": "Full auto, or slight babysitting"
+    }
+  ],
+  "completion": {
+    "percent": 100,
+    "unitIds": [
+      "CAPITALEXECUTOR",
+      "HOUNDSTOOTH",
+      "RAZORCREST",
+      "XANADUBLOOD",
+      "PUNISHINGONE",
+      "SLAVE1",
+      "IG2000",
+      "TIEBOMBERIMPERIAL"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 95,
+      "unitIds": [
+        "CAPITALEXECUTOR",
+        "HOUNDSTOOTH",
+        "RAZORCREST",
+        "XANADUBLOOD",
+        "PUNISHINGONE",
+        "SLAVE1",
+        "IG2000",
+        ""
+      ]
+    },
+    {
+      "percent": 90,
+      "unitIds": [
+        "CAPITALEXECUTOR",
+        "HOUNDSTOOTH",
+        "RAZORCREST",
+        "XANADUBLOOD",
+        "PUNISHINGONE",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 85,
+      "unitIds": [
+        "CAPITALEXECUTOR",
+        "HOUNDSTOOTH",
+        "XANADUBLOOD",
+        "SLAVE1",
+        "PUNISHINGONE",
+        "IG2000",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 80,
+      "unitIds": [
+        "CAPITALEXECUTOR",
+        "HOUNDSTOOTH",
+        "XANADUBLOOD",
+        "PUNISHINGONE",
+        "SLAVE1",
+        "IG2000",
+        "",
+        ""
+      ]
+    }
+  ]
+}

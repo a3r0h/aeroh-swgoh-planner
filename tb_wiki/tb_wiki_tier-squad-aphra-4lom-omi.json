@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-19T03:44:59.624Z"
+  },
+  "id": "tier-squad-mrr8nqgh-axpdv",
+  "kind": "squad",
+  "name": "Aphra + 4LOM Omi",
+  "leaderId": "DOCTORAPHRA",
+  "companionIds": [
+    "TRIPLEZERO",
+    "BT1",
+    "IG90",
+    "4LOM"
+  ],
+  "unitIds": [
+    "DOCTORAPHRA",
+    "TRIPLEZERO",
+    "BT1",
+    "IG90",
+    "4LOM"
+  ],
+  "alignment": "dark",
+  "omicronRequired": true,
+  "description": "Aphra is a squad that is necessary across many phases, and can really ramp up the offense. With IG90 the team is seeing a much higher survivability.\nWhile the 5th slot can go to a wide variety of units, nothing beats 4LOM's Omi ability to buff IG90, making IG90 hit harder than BT2. It will give you more momentum to counter for the squad inherently being a bit squishy.\nDoes well for the first 4 phases, but can struggle on p5-p6.",
+  "notes": [
+    "Very high output with 4LOM's Omi",
+    "On the squishy side",
+    "Aphra is required for a lot of missions",
+    ""
+  ],
+  "marks": {
+    "leader": {
+      "value": 5,
+      "checked": true
+    },
+    "units": [
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": false
+      }
+    ],
+    "omicron": {
+      "value": 5,
+      "checked": false
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Squad in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 4,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The squads ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the squad cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 3,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the squad composition, and do they rely on an Omicron to function"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 3,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the squad expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 4,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Corellia Mix NE - Aphra required",
+      "note": "Best on manual"
+    },
+    {
+      "phase": 2,
+      "text": "Any DS or Mix mission",
+      "note": "Best on manual"
+    },
+    {
+      "phase": 3,
+      "text": "Dathomir DS NE - Aphra required",
+      "note": "Best on manual"
+    },
+    {
+      "phase": 4,
+      "text": "Any DS, except the vs. Aphra mission",
+      "note": "Best on manual"
+    },
+    {
+      "phase": 5,
+      "text": "Malachor DS SE - Aphra required",
+      "note": "Best on manual"
+    },
+    {
+      "phase": 6,
+      "text": "Some DS or Mix missions",
+      "note": "Best on manual"
+    }
+  ],
+  "completion": {
+    "percent": 92,
+    "unitIds": [
+      "DOCTORAPHRA",
+      "TRIPLEZERO",
+      "BT1",
+      "IG90",
+      "4LOM"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 80,
+      "unitIds": [
+        "DOCTORAPHRA",
+        "TRIPLEZERO",
+        "BT1",
+        "IG90",
+        "B2SUPERBATTLEDROID"
+      ]
+    },
+    {
+      "percent": 75,
+      "unitIds": [
+        "DOCTORAPHRA",
+        "TRIPLEZERO",
+        "BT1",
+        "IG90",
+        "VADER"
+      ]
+    },
+    {
+      "percent": 75,
+      "unitIds": [
+        "DOCTORAPHRA",
+        "TRIPLEZERO",
+        "BT1",
+        "IG90",
+        "GRIEVOUS"
+      ]
+    },
+    {
+      "percent": 70,
+      "unitIds": [
+        "DOCTORAPHRA",
+        "TRIPLEZERO",
+        "BT1",
+        "IG90",
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-19T03:23:13.792Z"
+  },
+  "id": "tier-squad-mrr84cmj-efort",
+  "kind": "squad",
+  "name": "BB2 + Wrecker Omi",
+  "leaderId": "OMEGAS3",
+  "companionIds": [
+    "HUNTERS3",
+    "CROSSHAIRS3",
+    "BATCHERS3",
+    "WRECKERS3"
+  ],
+  "unitIds": [
+    "OMEGAS3",
+    "HUNTERS3",
+    "CROSSHAIRS3",
+    "BATCHERS3",
+    "WRECKERS3"
+  ],
+  "alignment": "light",
+  "omicronRequired": true,
+  "description": "BB2 or New Bad Batch, is a fantastic team with the Wrecker Omi, able to tackle most opponents.\nThey are very niche outside TB however and can be hard to justify for deep investment.\nThey are very strong even at r7, and can give you a lot of mileage early on still.\nThey tend to fare best on the LS planets.",
+  "notes": [
+    "Must have the Wrecker Omi",
+    "Needs slight babysitting vs. teams that can resurrect",
+    "Bit of a niche team",
+    ""
+  ],
+  "marks": {
+    "leader": {
+      "value": 5,
+      "checked": true
+    },
+    "units": [
+      {
+        "value": 5,
+        "checked": false
+      },
+      {
+        "value": 5,
+        "checked": false
+      },
+      {
+        "value": 5,
+        "checked": false
+      },
+      {
+        "value": 5,
+        "checked": true
+      }
+    ],
+    "omicron": {
+      "value": 5,
+      "checked": true
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Squad in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The squads ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 4,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the squad cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 1,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the squad composition, and do they rely on an Omicron to function"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 3,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the squad expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 4,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Any LS mission",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 2,
+      "text": "Any LS mission",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 3,
+      "text": "Any LS mission",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 4,
+      "text": "Any LS mission",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 5,
+      "text": "Any LS mission",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 6,
+      "text": "Any LS mission",
+      "note": "Full auto, or slight babysitting"
+    }
+  ],
+  "completion": {
+    "percent": 83,
+    "unitIds": [
+      "OMEGAS3",
+      "HUNTERS3",
+      "CROSSHAIRS3",
+      "BATCHERS3",
+      "WRECKERS3"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

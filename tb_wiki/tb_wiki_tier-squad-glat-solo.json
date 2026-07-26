@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-19T18:10:55.087Z"
+  },
+  "id": "tier-squad-mrr4obnj-78u0y",
+  "kind": "squad",
+  "name": "GLAT solo",
+  "leaderId": "GLAHSOKATANO",
+  "companionIds": [],
+  "unitIds": [
+    "GLAHSOKATANO"
+  ],
+  "alignment": "light",
+  "omicronRequired": false,
+  "description": "While GLAT's Spectre squad is not bad, she just does not need them to perform across all 6 phases.\nPut her with any 4 randoms, and she will work.\n",
+  "notes": [
+    "1 man army",
+    "Works solo with 4 randoms",
+    "Don't rely on any Omi",
+    "Slow and sluggish output"
+  ],
+  "marks": {
+    "leader": {
+      "value": 5,
+      "checked": true
+    },
+    "units": [
+      {
+        "value": 0,
+        "checked": false
+      },
+      {
+        "value": 0,
+        "checked": false
+      },
+      {
+        "value": 0,
+        "checked": false
+      },
+      {
+        "value": 0,
+        "checked": false
+      }
+    ],
+    "omicron": {
+      "value": 0,
+      "checked": false
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 3,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Squad in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The squads ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the squad cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the squad composition, and do they rely on an Omicron to function"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the squad expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 5,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Any LS, strong for Corellia Qi'ra+YHS SpcM",
+      "note": "Full auto"
+    },
+    {
+      "phase": 2,
+      "text": "Any LS, strong for Felucia YLC SpcM",
+      "note": "Full auto"
+    },
+    {
+      "phase": 3,
+      "text": "Any LS or Mix mission, strong for Zeffo UFU",
+      "note": "Full auto wave1, babysit wave2"
+    },
+    {
+      "phase": 4,
+      "text": "Any LS or Mix, not great vs Mandalore DTMG",
+      "note": "Full auto"
+    },
+    {
+      "phase": 5,
+      "text": "Very strong on Vandor Mix NE",
+      "note": "Full auto"
+    },
+    {
+      "phase": 6,
+      "text": "Very strong on Hoth Mix NE",
+      "note": "Full auto"
+    }
+  ],
+  "completion": {
+    "percent": 100,
+    "unitIds": [
+      "GLAHSOKATANO"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 100,
+      "unitIds": [
+        "GLAHSOKATANO",
+        "HUYANG",
+        "GENERALSYNDULLA",
+        "PADAWANSABINE",
+        "EZRAEXILE"
+      ]
+    },
+    {
+      "percent": 90,
+      "unitIds": [
+        "GLAHSOKATANO",
+        "CEREJUNDA",
+        "BENSOLO",
+        "FULCRUMAHSOKA",
+        "CALKESTIS"
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

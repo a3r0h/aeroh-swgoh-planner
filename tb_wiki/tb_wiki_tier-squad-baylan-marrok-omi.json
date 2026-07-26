@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-19T02:45:52.676Z"
+  },
+  "id": "tier-squad-mrr6pnz3-c1y81",
+  "kind": "squad",
+  "name": "Baylan + Marrok Omi",
+  "leaderId": "BAYLANSKOLL",
+  "companionIds": [
+    "SHINHATI",
+    "MARROK",
+    "DENGAR",
+    "EMBO"
+  ],
+  "unitIds": [
+    "BAYLANSKOLL",
+    "SHINHATI",
+    "MARROK",
+    "DENGAR",
+    "EMBO"
+  ],
+  "alignment": "dark",
+  "omicronRequired": true,
+  "description": "Baylan is a powerhouse when teamed up with Shin and Marrok. It primarily looks for more Dmg or control in those 2 flexible slots.\n",
+  "notes": [
+    "Baylan is a very strong tank",
+    "Can stack 4 offensive units under Baylan",
+    "Does somewhat rely on Marrok's Omi",
+    ""
+  ],
+  "marks": {
+    "leader": {
+      "value": 5,
+      "checked": true
+    },
+    "units": [
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": false
+      },
+      {
+        "value": 3,
+        "checked": false
+      }
+    ],
+    "omicron": {
+      "value": 5,
+      "checked": true
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Squad in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The squads ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the squad cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 4,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the squad composition, and do they rely on an Omicron to function"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 3,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the squad expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 4,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Nearly any DS or Mix mission",
+      "note": "Full auto, or light babysitting"
+    },
+    {
+      "phase": 2,
+      "text": "Nearly any DS or Mix mission",
+      "note": "Full auto, or light babysitting"
+    },
+    {
+      "phase": 3,
+      "text": "Nearly any DS or Mix mission",
+      "note": "Full auto, or light babysitting"
+    },
+    {
+      "phase": 4,
+      "text": "Nearly any DS or Mix mission",
+      "note": "Full auto, or light babysitting"
+    },
+    {
+      "phase": 5,
+      "text": "Nearly any DS or Mix mission",
+      "note": "Full auto, or light babysitting"
+    },
+    {
+      "phase": 6,
+      "text": "Nearly any DS or Mix mission",
+      "note": "Full auto, or light babysitting"
+    }
+  ],
+  "completion": {
+    "percent": 88,
+    "unitIds": [
+      "BAYLANSKOLL",
+      "SHINHATI",
+      "MARROK",
+      "DENGAR",
+      "EMBO"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 95,
+      "unitIds": [
+        "BAYLANSKOLL",
+        "SHINHATI",
+        "MARROK",
+        "DENGAR",
+        "HONDO"
+      ]
+    },
+    {
+      "percent": 95,
+      "unitIds": [
+        "BAYLANSKOLL",
+        "SHINHATI",
+        "MARROK",
+        "DENGAR",
+        "DASHRENDAR"
+      ]
+    },
+    {
+      "percent": 90,
+      "unitIds": [
+        "BAYLANSKOLL",
+        "SHINHATI",
+        "MARROK",
+        "DENGAR",
+        ""
+      ]
+    },
+    {
+      "percent": 85,
+      "unitIds": [
+        "BAYLANSKOLL",
+        "SHINHATI",
+        "MARROK",
+        "",
+        ""
+      ]
+    }
+  ]
+}

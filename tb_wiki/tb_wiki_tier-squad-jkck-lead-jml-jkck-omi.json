@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-19T02:23:57.798Z"
+  },
+  "id": "tier-squad-mrr5pvmx-gn4e1",
+  "kind": "squad",
+  "name": "JKCK lead JML + JKCK Omi",
+  "leaderId": "JEDIKNIGHTCAL",
+  "companionIds": [
+    "GRANDMASTERLUKE",
+    "JEDIKNIGHTLUKE",
+    "GENERALSKYWALKER",
+    "SHAAKTI"
+  ],
+  "unitIds": [
+    "JEDIKNIGHTCAL",
+    "GRANDMASTERLUKE",
+    "JEDIKNIGHTLUKE",
+    "GENERALSKYWALKER",
+    "SHAAKTI"
+  ],
+  "alignment": "light",
+  "omicronRequired": true,
+  "description": "JKCK lead JML is a very capable team, that can comfortably do nearly any LS or Jedi mission.\nThe team in general, does better on manual than auto.\nThe staples of the team are JKCK with his Omis and JML. Shaak is strong, as she can put force taunt on JML.\nBut the team is flexible with nearly any Jedi.",
+  "notes": [
+    "Strong control and buff dispel",
+    "Very strong Omis",
+    "Best on manual play",
+    ""
+  ],
+  "marks": {
+    "leader": {
+      "value": 0,
+      "checked": false
+    },
+    "units": [
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 4,
+        "checked": false
+      },
+      {
+        "value": 4,
+        "checked": false
+      },
+      {
+        "value": 5,
+        "checked": false
+      }
+    ],
+    "omicron": {
+      "value": 5,
+      "checked": true
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Squad in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 4,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The squads ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the squad cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the squad composition, and do they rely on an Omicron to function"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 3,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the squad expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 4,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Strong for the Coruscant LS SE Mace+Kit",
+      "note": "Best on manual"
+    },
+    {
+      "phase": 2,
+      "text": "Bracca LS SpcM - Cere and Cal duo required",
+      "note": "Best on manual"
+    },
+    {
+      "phase": 3,
+      "text": "Zeffo LS SW - JKCK required",
+      "note": "Best on manual"
+    },
+    {
+      "phase": 4,
+      "text": "Any LS mission",
+      "note": "Best on manual"
+    },
+    {
+      "phase": 5,
+      "text": "Any LS mission",
+      "note": "Best on manual"
+    },
+    {
+      "phase": 6,
+      "text": "Any LS mission",
+      "note": "Best on manual"
+    }
+  ],
+  "completion": {
+    "percent": 92,
+    "unitIds": [
+      "JEDIKNIGHTCAL",
+      "GRANDMASTERLUKE",
+      "JEDIKNIGHTLUKE",
+      "GENERALSKYWALKER",
+      "SHAAKTI"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 85,
+      "unitIds": [
+        "JEDIKNIGHTCAL",
+        "GRANDMASTERLUKE",
+        "JEDIKNIGHTLUKE",
+        "GENERALSKYWALKER",
+        "HERMITYODA"
+      ]
+    },
+    {
+      "percent": 85,
+      "unitIds": [
+        "JEDIKNIGHTCAL",
+        "GRANDMASTERLUKE",
+        "MASTERQUIGON",
+        "PADAWANOBIWAN",
+        "SHAAKTI"
+      ]
+    },
+    {
+      "percent": 70,
+      "unitIds": [
+        "JEDIKNIGHTCAL",
+        "GRANDMASTERLUKE",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

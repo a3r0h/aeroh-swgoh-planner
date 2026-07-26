@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-19T01:38:52.925Z"
+  },
+  "id": "tier-squad-mrr4a5do-w5jrd",
+  "kind": "squad",
+  "name": "ROLO lead Leia + ROLO Omi",
+  "leaderId": "HOTHLEIA",
+  "companionIds": [
+    "GLLEIA",
+    "CAPTAINDROGAN",
+    "R2D2_LEGENDARY",
+    "CAPTAINREX"
+  ],
+  "unitIds": [
+    "HOTHLEIA",
+    "GLLEIA",
+    "CAPTAINDROGAN",
+    "R2D2_LEGENDARY",
+    "CAPTAINREX"
+  ],
+  "alignment": "light",
+  "omicronRequired": true,
+  "description": "While Leia works on her own, putting her under ROLO lead takes the team to new heights.\nWhen they occasionally lose a unit, ROLO goes on a rampage.\nTeam has strong control, and while good on auto, is even stronger on manual, where you can spread the stuns.",
+  "notes": [
+    "Stronger under ROLO lead than under Leia lead",
+    "Very strong control - excels at Droid mission",
+    "Enrages upon units dying",
+    "Is very strong even at r7-r8"
+  ],
+  "marks": {
+    "leader": {
+      "value": 0,
+      "checked": false
+    },
+    "units": [
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": false
+      },
+      {
+        "value": 4,
+        "checked": false
+      }
+    ],
+    "omicron": {
+      "value": 5,
+      "checked": true
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Squad in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The squads ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the squad cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the squad composition, and do they rely on an Omicron to function"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 3,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the squad expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 5,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Any LS or Mix mission",
+      "note": "Full auto, best on manual"
+    },
+    {
+      "phase": 2,
+      "text": "Any LS or Mix mission",
+      "note": "Full auto, best on manual"
+    },
+    {
+      "phase": 3,
+      "text": "Any LS or Mix mission, strong on Zeffo",
+      "note": "Full auto, best on manual"
+    },
+    {
+      "phase": 4,
+      "text": "Any LS or Mix mission, strong on Mandalore",
+      "note": "Best on manual"
+    },
+    {
+      "phase": 5,
+      "text": "Any LS or Mix mission",
+      "note": "Best on manual"
+    },
+    {
+      "phase": 6,
+      "text": "Any LS or Mix mission",
+      "note": "Best on manual"
+    }
+  ],
+  "completion": {
+    "percent": 92,
+    "unitIds": [
+      "HOTHLEIA",
+      "GLLEIA",
+      "CAPTAINDROGAN",
+      "R2D2_LEGENDARY",
+      "CAPTAINREX"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 90,
+      "unitIds": [
+        "HOTHLEIA",
+        "GLLEIA",
+        "CAPTAINDROGAN",
+        "R2D2_LEGENDARY",
+        "ADMIRALRADDUS"
+      ]
+    },
+    {
+      "percent": 85,
+      "unitIds": [
+        "HOTHLEIA",
+        "GLLEIA",
+        "CAPTAINDROGAN",
+        "R2D2_LEGENDARY",
+        "COMMANDERLUKESKYWALKER"
+      ]
+    },
+    {
+      "percent": 80,
+      "unitIds": [
+        "HOTHLEIA",
+        "GLLEIA",
+        "CAPTAINDROGAN",
+        "R2D2_LEGENDARY",
+        ""
+      ]
+    },
+    {
+      "percent": 70,
+      "unitIds": [
+        "GLLEIA",
+        "CAPTAINDROGAN",
+        "R2D2_LEGENDARY",
+        "CAPTAINREX",
+        ""
+      ]
+    }
+  ]
+}

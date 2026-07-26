@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-19T08:10:52.946Z"
+  },
+  "id": "tier-squad-mrrhejvo-y8vg3",
+  "kind": "squad",
+  "name": "OldBB + Omega Omi",
+  "leaderId": "BADBATCHHUNTER",
+  "companionIds": [
+    "BADBATCHOMEGA",
+    "BADBATCHECHO",
+    "BADBATCHTECH",
+    "BADBATCHWRECKER"
+  ],
+  "unitIds": [
+    "BADBATCHHUNTER",
+    "BADBATCHOMEGA",
+    "BADBATCHECHO",
+    "BADBATCHTECH",
+    "BADBATCHWRECKER"
+  ],
+  "alignment": "light",
+  "omicronRequired": true,
+  "description": "Unfortunately the Omega Omi doesn't transform the team, like some other Omis do.\nThe team is a little wobbly at r7 and above.\nIs almost exclusively used on the Zeffo Clones mission for stuns, which works perfectly at r7.\nAny investment past that is hard to justify.",
+  "notes": [
+    "Works great for Zeffo Clones",
+    "Not great outside Zeffo",
+    "Not great past r7",
+    ""
+  ],
+  "marks": {
+    "leader": {
+      "value": 5,
+      "checked": true
+    },
+    "units": [
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      }
+    ],
+    "omicron": {
+      "value": 5,
+      "checked": true
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Squad in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 3,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The squads ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 2,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the squad cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 1,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the squad composition, and do they rely on an Omicron to function"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 2,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the squad expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 3,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Some LS missions",
+      "note": "Full auto"
+    },
+    {
+      "phase": 2,
+      "text": "Some LS missions",
+      "note": "Full auto"
+    },
+    {
+      "phase": 3,
+      "text": "Zeffo LS SpcM - Clones mission",
+      "note": "Full auto"
+    },
+    {
+      "phase": 4,
+      "text": "Not great",
+      "note": "-"
+    },
+    {
+      "phase": 5,
+      "text": "Not great",
+      "note": "-"
+    },
+    {
+      "phase": 6,
+      "text": "Not great",
+      "note": "-"
+    }
+  ],
+  "completion": {
+    "percent": 83,
+    "unitIds": [
+      "BADBATCHHUNTER",
+      "BADBATCHOMEGA",
+      "BADBATCHECHO",
+      "BADBATCHTECH",
+      "BADBATCHWRECKER"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

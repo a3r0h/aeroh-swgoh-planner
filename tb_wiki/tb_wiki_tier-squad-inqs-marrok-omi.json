@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-19T01:14:12.637Z"
+  },
+  "id": "tier-squad-mrr2pdo0-p76dr",
+  "kind": "squad",
+  "name": "Reva + Marrok Omi",
+  "leaderId": "THIRDSISTER",
+  "companionIds": [
+    "GRANDINQUISITOR",
+    "SEVENTHSISTER",
+    "FIFTHBROTHER",
+    "MARROK"
+  ],
+  "unitIds": [
+    "THIRDSISTER",
+    "GRANDINQUISITOR",
+    "SEVENTHSISTER",
+    "FIFTHBROTHER",
+    "MARROK"
+  ],
+  "alignment": "dark",
+  "omicronRequired": true,
+  "description": "While the Inquisitorius technically works without Marrok and his Omi, the omi lifts the team to new heights and allows full auto on almost anything.\nThe core is 3rd, GI and 7th, with the last 1-2 slots being open, dependent on using Marrok or not.\nMarrok without his Omi is not great.",
+  "notes": [
+    "Very flexible squad",
+    "Very strong Omi",
+    "Can auto almost anything with the Omi",
+    "Can work without the Omi, but mostly on manual"
+  ],
+  "marks": {
+    "leader": {
+      "value": 5,
+      "checked": true
+    },
+    "units": [
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 4,
+        "checked": false
+      },
+      {
+        "value": 5,
+        "checked": false
+      }
+    ],
+    "omicron": {
+      "value": 5,
+      "checked": false
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Squad in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 4,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The squads ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the squad cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the squad composition, and do they rely on an Omicron to function"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 4,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the squad expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 5,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Any DS or Mix mission",
+      "note": "Full auto"
+    },
+    {
+      "phase": 2,
+      "text": "Any DS or Mix mission",
+      "note": "Full auto"
+    },
+    {
+      "phase": 3,
+      "text": "Tatooine Mix SE - GI required",
+      "note": "Full auto"
+    },
+    {
+      "phase": 4,
+      "text": "Haven DS SpcM - Reva required",
+      "note": "Full auto"
+    },
+    {
+      "phase": 5,
+      "text": "Malachor DS SE - 8th, 5th and 7th required",
+      "note": "Full auto"
+    },
+    {
+      "phase": 6,
+      "text": "Any DS mission, not great on Hoth",
+      "note": "Full auto"
+    }
+  ],
+  "completion": {
+    "percent": 100,
+    "unitIds": [
+      "THIRDSISTER",
+      "GRANDINQUISITOR",
+      "SEVENTHSISTER",
+      "FIFTHBROTHER",
+      "MARROK"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 90,
+      "unitIds": [
+        "THIRDSISTER",
+        "GRANDINQUISITOR",
+        "SEVENTHSISTER",
+        "EIGHTHBROTHER",
+        "MARROK"
+      ]
+    },
+    {
+      "percent": 80,
+      "unitIds": [
+        "THIRDSISTER",
+        "GRANDINQUISITOR",
+        "SEVENTHSISTER",
+        "FIFTHBROTHER",
+        "EIGHTHBROTHER"
+      ]
+    },
+    {
+      "percent": 70,
+      "unitIds": [
+        "THIRDSISTER",
+        "GRANDINQUISITOR",
+        "SEVENTHSISTER",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-26T11:21:40.462Z"
+  },
+  "id": "tier-fleet-chimaera",
+  "kind": "fleet",
+  "name": "Chimaera",
+  "leaderId": "CAPITALCHIMAERA",
+  "companionIds": [
+    "SCYTHE",
+    "TIEADVANCED",
+    "TIEFIGHTERIMPERIAL",
+    "TIEDEFENDER",
+    "TIEINTERCEPTOR",
+    "TIEBOMBERIMPERIAL",
+    "GAUNTLETSTARFIGHTER"
+  ],
+  "unitIds": [
+    "CAPITALCHIMAERA",
+    "SCYTHE",
+    "TIEADVANCED",
+    "TIEFIGHTERIMPERIAL",
+    "TIEDEFENDER",
+    "TIEINTERCEPTOR",
+    "TIEBOMBERIMPERIAL",
+    "GAUNTLETSTARFIGHTER"
+  ],
+  "alignment": "dark",
+  "omicronRequired": false,
+  "description": "The Chimaera is not great for TB, but is somewhat able to do Mandalore with Gauntlet.\nIt is not a first choice, but if your first choice is stuck in Ops, it can be a replacement.",
+  "notes": [
+    "Can stand in for primary choice on Mandalore",
+    "Not great anywhere but Mandalore",
+    "",
+    ""
+  ],
+  "marks": {
+    "leader": {
+      "value": 0,
+      "checked": false
+    },
+    "starters": [
+      {
+        "value": 0,
+        "checked": false
+      },
+      {
+        "value": 0,
+        "checked": false
+      },
+      {
+        "value": 0,
+        "checked": false
+      }
+    ],
+    "units": [
+      {
+        "value": 0,
+        "checked": false
+      },
+      {
+        "value": 0,
+        "checked": false
+      },
+      {
+        "value": 0,
+        "checked": false
+      },
+      {
+        "value": 0,
+        "checked": false
+      }
+    ],
+    "omicron": {
+      "value": 0,
+      "checked": false
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 3,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Fleet in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 3,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The fleet's ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 1,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the fleet cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 2,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the fleet composition"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 3,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the fleet expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 2,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Not great",
+      "note": "-"
+    },
+    {
+      "phase": 2,
+      "text": "Not great",
+      "note": "-"
+    },
+    {
+      "phase": 3,
+      "text": "Not great",
+      "note": "-"
+    },
+    {
+      "phase": 4,
+      "text": "Mandalore Mix Fleet - Gauntlet required",
+      "note": "Manual, or slight babysitting"
+    },
+    {
+      "phase": 5,
+      "text": "Not great",
+      "note": "-"
+    },
+    {
+      "phase": 6,
+      "text": "Not great",
+      "note": "-"
+    }
+  ],
+  "completion": {
+    "percent": 0,
+    "unitIds": [
+      "CAPITALCHIMAERA",
+      "SCYTHE",
+      "TIEADVANCED",
+      "TIEFIGHTERIMPERIAL",
+      "TIEDEFENDER",
+      "TIEINTERCEPTOR",
+      "TIEBOMBERIMPERIAL",
+      "GAUNTLETSTARFIGHTER"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 95,
+      "unitIds": [
+        "CAPITALCHIMAERA",
+        "SCYTHE",
+        "TIEADVANCED",
+        "TIEFIGHTERIMPERIAL",
+        "TIEDEFENDER",
+        "TIEINTERCEPTOR",
+        "TIEBOMBERIMPERIAL",
+        ""
+      ]
+    },
+    {
+      "percent": 90,
+      "unitIds": [
+        "CAPITALCHIMAERA",
+        "SCYTHE",
+        "TIEADVANCED",
+        "TIEFIGHTERIMPERIAL",
+        "TIEDEFENDER",
+        "TIEINTERCEPTOR",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 80,
+      "unitIds": [
+        "CAPITALCHIMAERA",
+        "SCYTHE",
+        "TIEADVANCED",
+        "GAUNTLETSTARFIGHTER",
+        "TIEDEFENDER",
+        "TIEINTERCEPTOR",
+        "TIEFIGHTERIMPERIAL",
+        "TIEBOMBERIMPERIAL"
+      ]
+    },
+    {
+      "percent": 75,
+      "unitIds": [
+        "CAPITALCHIMAERA",
+        "SCYTHE",
+        "TIEADVANCED",
+        "GAUNTLETSTARFIGHTER",
+        "TIEDEFENDER",
+        "TIEINTERCEPTOR",
+        "",
+        ""
+      ]
+    }
+  ]
+}

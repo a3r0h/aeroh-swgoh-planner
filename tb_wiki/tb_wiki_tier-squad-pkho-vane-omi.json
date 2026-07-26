@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-19T04:06:28.555Z"
+  },
+  "id": "tier-squad-pkho-vane-omi",
+  "kind": "squad",
+  "name": "PKHO + Vane Omi",
+  "leaderId": "GLHONDO",
+  "companionIds": [
+    "VANE",
+    "CAPTAINSILVO",
+    "BRUTUS",
+    "SM33"
+  ],
+  "unitIds": [
+    "GLHONDO",
+    "VANE",
+    "CAPTAINSILVO",
+    "BRUTUS",
+    "SM33"
+  ],
+  "alignment": "dark",
+  "omicronRequired": true,
+  "description": "PKHO with the Vane Omi can do just about any mission across the phases.\nWorks best with both Brutus and SM33 for offensive output, but technically works with just 1 of them.\nThe Silvo slot is also flexible. Old Hondo or other DS Pirates work as well.",
+  "notes": [
+    "PKHO Ult is a team-wide resurrection",
+    "Very strong Omi",
+    "Can auto almost every mission",
+    "Can do the Aphra mission on Haven"
+  ],
+  "marks": {
+    "leader": {
+      "value": 5,
+      "checked": true
+    },
+    "units": [
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 3,
+        "checked": false
+      },
+      {
+        "value": 5,
+        "checked": false
+      },
+      {
+        "value": 5,
+        "checked": false
+      }
+    ],
+    "omicron": {
+      "value": 4,
+      "checked": true
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Squad in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The squads ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the squad cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the squad composition, and do they rely on an Omicron to function"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the squad expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 6,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Any DS or Mix mission",
+      "note": "Can auto"
+    },
+    {
+      "phase": 2,
+      "text": "Strong for Felucia Mix SW - Hondo mission",
+      "note": "Can auto"
+    },
+    {
+      "phase": 3,
+      "text": "Any DS or Mix mission",
+      "note": "Can auto"
+    },
+    {
+      "phase": 4,
+      "text": "Haven DS SW - vs. Aphra",
+      "note": "Safest to manual"
+    },
+    {
+      "phase": 5,
+      "text": "Any DS or Mix mission",
+      "note": "Can auto"
+    },
+    {
+      "phase": 6,
+      "text": "Any DS or Mix mission",
+      "note": "Can auto"
+    }
+  ],
+  "completion": {
+    "percent": 100,
+    "unitIds": [
+      "GLHONDO",
+      "VANE",
+      "CAPTAINSILVO",
+      "BRUTUS",
+      "SM33"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 85,
+      "unitIds": [
+        "GLHONDO",
+        "VANE",
+        "BRUTUS",
+        "SM33",
+        "HONDO"
+      ]
+    },
+    {
+      "percent": 75,
+      "unitIds": [
+        "GLHONDO",
+        "VANE",
+        "CAPTAINSILVO",
+        "BRUTUS",
+        "HONDO"
+      ]
+    },
+    {
+      "percent": 75,
+      "unitIds": [
+        "GLHONDO",
+        "VANE",
+        "CAPTAINSILVO",
+        "SM33",
+        "HONDO"
+      ]
+    },
+    {
+      "percent": 70,
+      "unitIds": [
+        "GLHONDO",
+        "VANE",
+        "BRUTUS",
+        "SM33",
+        ""
+      ]
+    }
+  ]
+}

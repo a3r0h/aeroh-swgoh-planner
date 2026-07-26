@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-26T11:32:27.019Z"
+  },
+  "id": "tier-fleet-home-one",
+  "kind": "fleet",
+  "name": "Home One",
+  "leaderId": "CAPITALMONCALAMARICRUISER",
+  "companionIds": [
+    "YWINGREBEL",
+    "OUTRIDER",
+    "MILLENNIUMFALCON",
+    "BWINGREBEL",
+    "ROGUEONESHIP",
+    "PHANTOM2",
+    "XWINGRED3"
+  ],
+  "unitIds": [
+    "CAPITALMONCALAMARICRUISER",
+    "YWINGREBEL",
+    "OUTRIDER",
+    "MILLENNIUMFALCON",
+    "BWINGREBEL",
+    "ROGUEONESHIP",
+    "PHANTOM2",
+    "XWINGRED3"
+  ],
+  "alignment": "light",
+  "omicronRequired": false,
+  "description": "Home One is primarily used as a stand-in for Profundity, whenever Profundity is stuck in Ops.\nIt works similarly, but has more RNG.\nYou can either run the Profundity line-up and reinforce with B-wing, or run the regular Home One setup.",
+  "notes": [
+    "A worse option than Profundity",
+    "Can stand in for Profundity, if stuck in Ops",
+    "",
+    ""
+  ],
+  "marks": {
+    "leader": {
+      "value": 5,
+      "checked": true
+    },
+    "starters": [
+      {
+        "value": 5,
+        "checked": false
+      },
+      {
+        "value": 5,
+        "checked": false
+      },
+      {
+        "value": 5,
+        "checked": false
+      }
+    ],
+    "units": [
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 4,
+        "checked": false
+      },
+      {
+        "value": 4,
+        "checked": false
+      },
+      {
+        "value": 5,
+        "checked": false
+      }
+    ],
+    "omicron": {
+      "value": 0,
+      "checked": false
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 4,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Fleet in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 3,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The fleet's ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 2,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the fleet cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 2,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the fleet composition"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 3,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the fleet expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 3,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "",
+      "note": ""
+    },
+    {
+      "phase": 2,
+      "text": "",
+      "note": ""
+    },
+    {
+      "phase": 3,
+      "text": "",
+      "note": ""
+    },
+    {
+      "phase": 4,
+      "text": "",
+      "note": ""
+    },
+    {
+      "phase": 5,
+      "text": "",
+      "note": ""
+    },
+    {
+      "phase": 6,
+      "text": "",
+      "note": ""
+    }
+  ],
+  "completion": {
+    "percent": 100,
+    "unitIds": [
+      "CAPITALMONCALAMARICRUISER",
+      "YWINGREBEL",
+      "OUTRIDER",
+      "MILLENNIUMFALCON",
+      "BWINGREBEL",
+      "ROGUEONESHIP",
+      "PHANTOM2",
+      "XWINGRED3"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 70,
+      "unitIds": [
+        "CAPITALMONCALAMARICRUISER",
+        "XWINGRED3",
+        "RAVENSCLAW",
+        "UWINGSCARIF",
+        "BWINGREBEL",
+        "UWINGROGUEONE",
+        "XWINGRED2",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

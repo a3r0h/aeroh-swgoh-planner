@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-18T22:59:46.331Z"
+  },
+  "id": "tier-jabba",
+  "kind": "squad",
+  "name": "Jabba + Gamorrean Omi",
+  "leaderId": "JABBATHEHUTT",
+  "companionIds": [
+    "KRRSANTAN",
+    "BOUSHH",
+    "UNDERCOVERLANDO",
+    "GAMORREANGUARD"
+  ],
+  "unitIds": [
+    "JABBATHEHUTT",
+    "KRRSANTAN",
+    "BOUSHH",
+    "UNDERCOVERLANDO",
+    "GAMORREANGUARD"
+  ],
+  "alignment": "dark",
+  "omicronRequired": true,
+  "description": "Jabba with the Gamorrean Guard omi is technically the strongest version of the team for TB, and allows you to auto missions sooner than other loadouts.\nGamorrean is generally not a great investment, and is not strictly advised. Embo, Boba or any other Hutt works well in this slot too.",
+  "notes": [
+    "Omi good, but not necessary",
+    "Jabba works solo with randoms till r7",
+    "Krrsantan and Boushh and 2 randoms allow r9",
+    "Full Hutt squad or Gamorrean omi allows auto at r9"
+  ],
+  "marks": {
+    "leader": {
+      "value": 5,
+      "checked": true
+    },
+    "units": [
+      {
+        "value": 5,
+        "checked": false
+      },
+      {
+        "value": 4,
+        "checked": false
+      },
+      {
+        "value": 1,
+        "checked": false
+      },
+      {
+        "value": 1,
+        "checked": false
+      }
+    ],
+    "omicron": {
+      "value": 1,
+      "checked": false
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Squad in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The squads ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the squad cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the squad composition, and do they rely on an Omicron to function"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the squad expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 5,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Corellia Mix SE - Jabba required",
+      "note": "Solo Jabba with 4 randoms works"
+    },
+    {
+      "phase": 2,
+      "text": "Felucia Mix SE - Jabba required",
+      "note": "Solo Jabba with 4 randoms works"
+    },
+    {
+      "phase": 3,
+      "text": "Tatooine Mix NE - Jabba required",
+      "note": "Solo Jabba with 4 randoms works"
+    },
+    {
+      "phase": 4,
+      "text": "Kessel Mix SE - Jabba required",
+      "note": "Jabba and Krrsantan with 3 randoms work"
+    },
+    {
+      "phase": 5,
+      "text": "Vandor Mix SE - Jabba required",
+      "note": "Jabba and Krrsantan with 3 randoms work"
+    },
+    {
+      "phase": 6,
+      "text": "Hoth Mix NW - Jabba required",
+      "note": "Jabba, Krrsantan, Boushh with 2 randoms"
+    }
+  ],
+  "completion": {
+    "percent": 94,
+    "unitIds": [
+      "JABBATHEHUTT",
+      "KRRSANTAN",
+      "BOUSHH",
+      "UNDERCOVERLANDO",
+      "GAMORREANGUARD"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 90,
+      "unitIds": [
+        "JABBATHEHUTT",
+        "KRRSANTAN",
+        "BOUSHH",
+        "UNDERCOVERLANDO",
+        "EMBO"
+      ]
+    },
+    {
+      "percent": 80,
+      "unitIds": [
+        "JABBATHEHUTT",
+        "KRRSANTAN",
+        "BOUSHH",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 70,
+      "unitIds": [
+        "JABBATHEHUTT",
+        "KRRSANTAN",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 60,
+      "unitIds": [
+        "JABBATHEHUTT",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

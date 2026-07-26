@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-19T04:12:40.589Z"
+  },
+  "id": "tier-squad-mrr9j6gr-5ikdh",
+  "kind": "squad",
+  "name": "SEE",
+  "leaderId": "SITHPALPATINE",
+  "companionIds": [
+    "DARTHMALGUS",
+    "DARTHMALAK",
+    "DARTHBANE",
+    "WATTAMBOR"
+  ],
+  "unitIds": [
+    "SITHPALPATINE",
+    "DARTHMALGUS",
+    "DARTHMALAK",
+    "DARTHBANE",
+    "WATTAMBOR"
+  ],
+  "alignment": "dark",
+  "omicronRequired": false,
+  "description": "SEE is a great squad in TB, and while SEE himself is not great outside TB, except for duoing with Bane, the squad is comprised of units that individually are fantastic.\nBoth SEE, Malgus and Malak are resistant to % HP Dmg and do well against all planets with stacking DoTs.",
+  "notes": [
+    "Strong against % HP Dmg and DoTs",
+    "Strong individual units",
+    "Can feel a bit sluggish",
+    "Not relying on any Omi"
+  ],
+  "marks": {
+    "leader": {
+      "value": 5,
+      "checked": true
+    },
+    "units": [
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": false
+      },
+      {
+        "value": 5,
+        "checked": true
+      }
+    ],
+    "omicron": {
+      "value": 0,
+      "checked": false
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 4,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Squad in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The squads ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the squad cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 4,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the squad composition, and do they rely on an Omicron to function"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 3,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the squad expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 4,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Any DS or Mix mission",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 2,
+      "text": "Any DS or Mix mission",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 3,
+      "text": "Strong for Tatooine Mix SW - Fennec mission",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 4,
+      "text": "Strong for Kessel Mix NW or NE mission",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 5,
+      "text": "Most DS or Mix missionss",
+      "note": "Slight babysitting, or manual"
+    },
+    {
+      "phase": 6,
+      "text": "Most DS or Mix mission",
+      "note": "Slight babysitting, or manual"
+    }
+  ],
+  "completion": {
+    "percent": 100,
+    "unitIds": [
+      "SITHPALPATINE",
+      "DARTHMALGUS",
+      "DARTHMALAK",
+      "DARTHBANE",
+      "WATTAMBOR"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 95,
+      "unitIds": [
+        "SITHPALPATINE",
+        "DARTHMALGUS",
+        "DARTHMALAK",
+        "WATTAMBOR",
+        ""
+      ]
+    },
+    {
+      "percent": 80,
+      "unitIds": [
+        "SITHPALPATINE",
+        "DARTHMALGUS",
+        "DARTHMALAK",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 70,
+      "unitIds": [
+        "SITHPALPATINE",
+        "DARTHMALAK",
+        "WATTAMBOR",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 60,
+      "unitIds": [
+        "SITHPALPATINE",
+        "DARTHMALAK",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-19T04:22:41.034Z"
+  },
+  "id": "tier-squad-mrra70c9-3hae0",
+  "kind": "squad",
+  "name": "CassU Fighters + Vel Omi",
+  "leaderId": "CASSIANUNDERCOVER",
+  "companionIds": [
+    "KLEYA",
+    "LUTHENRAEL",
+    "CINTA",
+    "VEL"
+  ],
+  "unitIds": [
+    "CASSIANUNDERCOVER",
+    "KLEYA",
+    "LUTHENRAEL",
+    "CINTA",
+    "VEL"
+  ],
+  "alignment": "light",
+  "omicronRequired": true,
+  "description": "While on paper, the Cassian Undercover squad should do very well, and the Dmg output is unreal, their Dmg immunity only lasts for 1 round.\nUnfortunately they are a little too RNG early in the wave, and swarm attacks can kill Vel and make the entire team fall apart.\nFor the investment needed, this team comes out a bit short.",
+  "notes": [
+    "Insane Dmg output",
+    "Squishy early in the wave",
+    "Weak to swarm attacks on Vel",
+    "Must have the Omi and a set comp"
+  ],
+  "marks": {
+    "leader": {
+      "value": 5,
+      "checked": true
+    },
+    "units": [
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      },
+      {
+        "value": 5,
+        "checked": true
+      }
+    ],
+    "omicron": {
+      "value": 5,
+      "checked": true
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Squad in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 3,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The squads ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 5,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the squad cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 1,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the squad composition, and do they rely on an Omicron to function"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 6,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the squad expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 4,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Any LS or Mix mission",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 2,
+      "text": "Any LS or Mix mission",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 3,
+      "text": "Any LS or Mix mission",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 4,
+      "text": "Any LS or Mix, but not great on Mandalore",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 5,
+      "text": "Some LS or Mix missions",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 6,
+      "text": "Some LS or Mix missions",
+      "note": "Full auto, or slight babysitting"
+    }
+  ],
+  "completion": {
+    "percent": 100,
+    "unitIds": [
+      "CASSIANUNDERCOVER",
+      "KLEYA",
+      "LUTHENRAEL",
+      "CINTA",
+      "VEL"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "percent": 0,
+      "unitIds": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

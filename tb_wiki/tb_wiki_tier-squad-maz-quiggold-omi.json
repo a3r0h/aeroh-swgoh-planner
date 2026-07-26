@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "lastUpdated": "2026-07-19T18:11:42.082Z"
+  },
+  "id": "tier-squad-mrs2n4ez-ulg2r",
+  "kind": "squad",
+  "name": "Maz + Quiggold Omi",
+  "leaderId": "MAZKANATA",
+  "companionIds": [
+    "ITHANO",
+    "ENFYSNEST",
+    "KIX",
+    "QUIGGOLD"
+  ],
+  "unitIds": [
+    "MAZKANATA",
+    "ITHANO",
+    "ENFYSNEST",
+    "KIX",
+    "QUIGGOLD"
+  ],
+  "alignment": "light",
+  "omicronRequired": true,
+  "description": "The biggest issue with Maz and her pirates, is that they inherently have low Dmg, and compete with PKHO for heavy hitters. In order to get Maz to be fully functional, you would have to take away from PKHO, while only being able to do Mix planets.\nThe Quiggold Omi doesn't work with PKHO, so the teams really only share the Attackers, and so often, Maz just comes up short.\nThe anti revive from Quiggold's Omi would be fantastic for Dathomir Nightsisters, or the LS missions with Medics, but none of them are on Mix planets.",
+  "notes": [
+    "Falls short from having to share Attackers with PKHO",
+    "",
+    "",
+    ""
+  ],
+  "marks": {
+    "leader": {
+      "value": 5,
+      "checked": true
+    },
+    "units": [
+      {
+        "value": 5,
+        "checked": false
+      },
+      {
+        "value": 4,
+        "checked": false
+      },
+      {
+        "value": 5,
+        "checked": false
+      },
+      {
+        "value": 5,
+        "checked": true
+      }
+    ],
+    "omicron": {
+      "value": 5,
+      "checked": true
+    }
+  },
+  "ratings": [
+    {
+      "label": "Offensive Ability",
+      "rating": 2,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The offensive output of the Squad in its best composition"
+    },
+    {
+      "label": "Defensive Ability",
+      "rating": 4,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "The squads ability to survive in its best composition"
+    },
+    {
+      "label": "Squad Versatility",
+      "rating": 2,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How many missions can the squad cover over all 6 phases"
+    },
+    {
+      "label": "Squad Flexibility",
+      "rating": 4,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How flexible is the squad composition, and do they rely on an Omicron to function"
+    },
+    {
+      "label": "Squad Economy",
+      "rating": 1,
+      "max": 6,
+      "highlight": false,
+      "tooltip": "How is the return on investment, is the squad expensive to build, and do they cover other game modes and/or events"
+    },
+    {
+      "label": "Overall Rating",
+      "rating": 3,
+      "max": 6,
+      "highlight": true,
+      "tooltip": "Average of the five component ratings (auto-calculated)"
+    }
+  ],
+  "missions": [
+    {
+      "phase": 1,
+      "text": "Some Mix missions",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 2,
+      "text": "Some Mix missions",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 3,
+      "text": "Some Mix missions",
+      "note": "Full auto, or slight babysitting"
+    },
+    {
+      "phase": 4,
+      "text": "Not great",
+      "note": "-"
+    },
+    {
+      "phase": 5,
+      "text": "Not great",
+      "note": "-"
+    },
+    {
+      "phase": 6,
+      "text": "Not great",
+      "note": "-"
+    }
+  ],
+  "completion": {
+    "percent": 83,
+    "unitIds": [
+      "MAZKANATA",
+      "ITHANO",
+      "ENFYSNEST",
+      "KIX",
+      "QUIGGOLD"
+    ],
+    "gaps": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "alternates": [
+    {
+      "percent": 110,
+      "unitIds": [
+        "MAZKANATA",
+        "ITHANO",
+        "SM33",
+        "KIX",
+        "QUIGGOLD"
+      ]
+    },
+    {
+      "percent": 90,
+      "unitIds": [
+        "MAZKANATA",
+        "ITHANO",
+        "HONDO",
+        "KIX",
+        "QUIGGOLD"
+      ]
+    },
+    {
+      "percent": 80,
+      "unitIds": [
+        "MAZKANATA",
+        "ITHANO",
+        "KIX",
+        "QUIGGOLD",
+        ""
+      ]
+    },
+    {
+      "percent": 70,
+      "unitIds": [
+        "MAZKANATA",
+        "QUIGGOLD",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}
