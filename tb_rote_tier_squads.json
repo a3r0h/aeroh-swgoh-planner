@@ -1,0 +1,423 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "contentVersion": 1,
+    "gameVersion": "mock",
+    "lastUpdated": "2026-07-20T22:20:55.385Z",
+    "author": "mock"
+  },
+  "squads": [
+    {
+      "id": "tier-squad-pkho-vane-omi",
+      "squadName": "PKHO + Vane Omi",
+      "units": [
+        "GLHONDO",
+        "VANE",
+        "CAPTAINSILVO",
+        "BRUTUS",
+        "SM33"
+      ],
+      "rank": 1,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-lv-appo-omi",
+      "squadName": "LV + Appo Omi",
+      "units": [
+        "LORDVADER",
+        "APPO",
+        "OPERATIVE",
+        "DISGUISEDCLONETROOPER",
+        "SCORCH"
+      ],
+      "rank": 2,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-inqs-marrok-omi",
+      "squadName": "Inqs + Marrok Omi",
+      "units": [
+        "THIRDSISTER",
+        "GRANDINQUISITOR",
+        "SEVENTHSISTER",
+        "FIFTHBROTHER",
+        "MARROK"
+      ],
+      "rank": 3,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-jabba-gamorrean-omi",
+      "rank": 4,
+      "squadName": "Jabba + Gamorrean Omi",
+      "units": [
+        "JABBATHEHUTT",
+        "KRRSANTAN",
+        "BOUSHH",
+        "UNDERCOVERLANDO",
+        "GAMORREANGUARD"
+      ],
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-jmmw-depa-omi",
+      "rank": 5,
+      "squadName": "JMMW + Depa OMI",
+      "units": [
+        "JEDIMASTERMACEWINDU",
+        "DEPABILLABA",
+        "JOCASTANU",
+        "AAYLASECURA",
+        "VANGUARDTEMPLEGUARD"
+      ],
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-glat-solo",
+      "squadName": "GLAT solo",
+      "units": [
+        "GLAHSOKATANO"
+      ],
+      "rank": 6,
+      "hasOmicron": false
+    },
+    {
+      "id": "tier-squad-rolo-lead-leia-rolo-omi",
+      "squadName": "ROLO lead Leia + ROLO Omi",
+      "units": [
+        "HOTHLEIA",
+        "GLLEIA",
+        "CAPTAINDROGAN",
+        "R2D2_LEGENDARY",
+        "CAPTAINREX"
+      ],
+      "rank": 7,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-ep-ipd-omi",
+      "squadName": "EP + IPD Omi",
+      "units": [
+        "EMPERORPALPATINE",
+        "MARAJADE",
+        "VADERDUELSEND",
+        "IMPERIALPROBEDROID",
+        "ROYALGUARD"
+      ],
+      "rank": 8,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-jkck-lead-jml-jkck-omi",
+      "squadName": "JKCK lead JML + JKCK Omi",
+      "units": [
+        "JEDIKNIGHTCAL",
+        "GRANDMASTERLUKE",
+        "JEDIKNIGHTLUKE",
+        "GENERALSKYWALKER",
+        "SHAAKTI"
+      ],
+      "rank": 9,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-gungans-tarpals-omi",
+      "squadName": "Gungans + Tarpals Omi",
+      "units": [
+        "BOSSNASS",
+        "CAPTAINTARPALS",
+        "JARJARBINKS",
+        "BOOMADIER",
+        "GUNGANPHALANX"
+      ],
+      "rank": 10,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-finn-finn-omi",
+      "squadName": "Finn + Finn Omi",
+      "units": [
+        "FINN",
+        "EPIXFINN",
+        "EPIXPOE",
+        "REYJEDITRAINING",
+        "ZORIIBLISS_V2"
+      ],
+      "rank": 11,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-satele-r8",
+      "squadName": "Satele r8+",
+      "units": [
+        "SATELESHAN",
+        "JEDIKNIGHTREVAN",
+        "BASTILASHAN",
+        "JOLEEBINDO",
+        "JUHANI"
+      ],
+      "rank": 12,
+      "hasOmicron": false
+    },
+    {
+      "id": "tier-squad-baylan-marrok-omi",
+      "squadName": "Baylan + Marrok Omi",
+      "units": [
+        "BAYLANSKOLL",
+        "SHINHATI",
+        "MARROK",
+        "DENGAR",
+        "EMBO"
+      ],
+      "rank": 13,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-bb2-wrecker-omi",
+      "squadName": "BB2 + Wrecker Omi",
+      "units": [
+        "OMEGAS3",
+        "HUNTERS3",
+        "CROSSHAIRS3",
+        "BATCHERS3",
+        "WRECKERS3"
+      ],
+      "rank": 14,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-jmk",
+      "squadName": "JMK",
+      "units": [
+        "JEDIMASTERKENOBI",
+        "COMMANDERAHSOKA",
+        "AHSOKATANO",
+        "PADMEAMIDALA",
+        "GENERALKENOBI"
+      ],
+      "rank": 15,
+      "hasOmicron": false
+    },
+    {
+      "id": "tier-squad-aphra-4lom-omi",
+      "squadName": "Aphra + 4LOM Omi",
+      "units": [
+        "DOCTORAPHRA",
+        "TRIPLEZERO",
+        "BT1",
+        "IG90",
+        "4LOM"
+      ],
+      "rank": 16,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-see",
+      "squadName": "SEE",
+      "units": [
+        "SITHPALPATINE",
+        "DARTHMALGUS",
+        "DARTHMALAK",
+        "DARTHBANE",
+        "WATTAMBOR"
+      ],
+      "rank": 17,
+      "hasOmicron": false
+    },
+    {
+      "id": "tier-squad-cassu-fighters-vel-omi",
+      "squadName": "CassU Fighters + Vel Omi",
+      "units": [
+        "CASSIANUNDERCOVER",
+        "KLEYA",
+        "LUTHENRAEL",
+        "CINTA",
+        "VEL"
+      ],
+      "rank": 18,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-dtmg-enoch-omi",
+      "squadName": "DTMG + Enoch Omi",
+      "units": [
+        "MOFFGIDEONS3",
+        "MOFFGIDEONS1",
+        "CAPTAINENOCH",
+        "DEATHTROOPERPERIDEA",
+        "NIGHTTROOPER"
+      ],
+      "rank": 19,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-testing-cobb-cobb-omi",
+      "squadName": "[Testing] Cobb + Cobb Omi",
+      "units": [
+        "COBBVANTH",
+        "CORUSCANTUNDERWORLDPOLICE",
+        "LOBOT",
+        "JAWASCAVENGER",
+        "CHIEFNEBIT"
+      ],
+      "rank": 20,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-stranger-mix",
+      "squadName": "Stranger Mix",
+      "units": [
+        "STRANGER",
+        "MAULHATEFUELED",
+        "STARKILLER",
+        "CALKESTIS",
+        "BARRISSOFFEE"
+      ],
+      "rank": 21,
+      "hasOmicron": false
+    },
+    {
+      "id": "tier-squad-rey",
+      "squadName": "Rey",
+      "units": [
+        "GLREY",
+        "BENSOLO",
+        "CEREJUNDA",
+        "CALKESTIS",
+        "FULCRUMAHSOKA"
+      ],
+      "rank": 22,
+      "hasOmicron": false
+    },
+    {
+      "id": "tier-squad-slkr",
+      "squadName": "SLKR",
+      "units": [
+        "SUPREMELEADERKYLOREN",
+        "DARKREY",
+        "GENERALHUX",
+        "FOSITHTROOPER",
+        "KYLORENUNMASKED"
+      ],
+      "rank": 23,
+      "hasOmicron": false
+    },
+    {
+      "id": "tier-squad-bkm-paz-omi",
+      "squadName": "BKM + Paz Omi",
+      "units": [
+        "MANDALORBOKATAN",
+        "THEMANDALORIANBESKARARMOR",
+        "IG12",
+        "BOKATAN",
+        "PAZVIZSLA"
+      ],
+      "rank": 24,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-isb-ipd-omi",
+      "squadName": "ISB + IPD Omi",
+      "units": [
+        "MAJORPARTAGAZ",
+        "DEDRAMEERO",
+        "DIRECTORKRENNIC",
+        "IMPERIALPROBEDROID",
+        "KXSECURITYDROID"
+      ],
+      "rank": 25,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-maz-quiggold-omi",
+      "squadName": "Maz + Quiggold Omi",
+      "units": [
+        "MAZKANATA",
+        "ITHANO",
+        "ENFYSNEST",
+        "KIX",
+        "QUIGGOLD"
+      ],
+      "rank": 26,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-adrad-cassian-omi",
+      "squadName": "AdRad + Cassian Omi",
+      "units": [
+        "ADMIRALRADDUS",
+        "CASSIANANDOR",
+        "JYNERSO",
+        "SCARIFREBEL",
+        "K2SO"
+      ],
+      "rank": 27,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-oldbb-omega-omi",
+      "squadName": "OldBB + Omega Omi",
+      "units": [
+        "BADBATCHHUNTER",
+        "BADBATCHOMEGA",
+        "BADBATCHECHO",
+        "BADBATCHTECH",
+        "BADBATCHWRECKER"
+      ],
+      "rank": 28,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-saw-kk-omi-vel-omi",
+      "squadName": "Saw + KK Omi + Vel Omi",
+      "units": [
+        "SAWGERRERA",
+        "KYLEKATARN",
+        "CARADUNE",
+        "LUTHENRAEL",
+        "VEL"
+      ],
+      "rank": 29,
+      "hasOmicron": true
+    },
+    {
+      "id": "tier-squad-gm",
+      "squadName": "GM",
+      "units": [
+        "GREATMOTHERS",
+        "MORGANELSBETH",
+        "MERRIN",
+        "DEATHTROOPERPERIDEA",
+        "NIGHTTROOPER"
+      ],
+      "rank": 30,
+      "hasOmicron": false
+    },
+    {
+      "id": "tier-squad-crex-phoenix",
+      "squadName": "Crex Phoenix",
+      "units": [
+        "HERASYNDULLAS3",
+        "SABINEWRENS3",
+        "CHOPPERS3",
+        "KANANJARRUSS3",
+        "CAPTAINREX"
+      ],
+      "rank": 31,
+      "hasOmicron": false
+    },
+    {
+      "id": "tier-squad-geos",
+      "squadName": "Geos",
+      "units": [
+        "GEONOSIANBROODALPHA",
+        "GEONOSIANSOLDIER",
+        "GEONOSIANSPY",
+        "POGGLETHELESSER",
+        "SUNFAC"
+      ],
+      "rank": 32,
+      "hasOmicron": false
+    }
+  ]
+}
